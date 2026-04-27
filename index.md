@@ -12,4 +12,6 @@ About the author
 
 ---
 
-Contact details (if it's to showcase projects, there's no need to add that many pages or extend too much)
+Contact details
+
+(if it's to showcase projects, there's no need to add that many pages or extend too much, so just a page for everything and then one page per project)
