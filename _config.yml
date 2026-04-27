@@ -10,3 +10,5 @@ aux_links:
 color_scheme: dark
 nav_sort: none
 search_enabled: false
+back_to_top: true
+back_to_top_text: "Back to top"
