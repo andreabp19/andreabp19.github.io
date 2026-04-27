@@ -8,10 +8,3 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 color_scheme: dark
-
-nav:
-  - Home: index.md
-
-  - Projects:
-      - Project 1: projects/project_01.md
-      - Project 2: projects/project_02.md
